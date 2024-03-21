@@ -21,7 +21,7 @@ function Sidebar() {
                             </div>
                             <div>
                                 <div>
-                                    <p class="h-3.8 leading-5.5 text-white-500 font-inter font-medium">Shivam</p>
+                                    <p class="h-3.8 leading-5.5 text-white-500 font-inter font-medium">Sachin</p>
                                     <p className='leading-4 h-4 underline font-normal'>Visit store</p>
                                 </div>
                             </div>
